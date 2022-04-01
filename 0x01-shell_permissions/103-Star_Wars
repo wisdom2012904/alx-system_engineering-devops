@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet serverthatcontainStarWarsIVepisode
+ssh towel.blinkenlights.nl
